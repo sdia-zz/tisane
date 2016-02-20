@@ -99,7 +99,7 @@ def av_d2():
 
     '''
 
-    raise NotImplementError
+    raise NotImplementedError
 
 
 def c2_naive():
@@ -134,7 +134,7 @@ def c2_naive():
 
     '''
 
-    raise NotImplementError
+    raise NotImplementedError
 
 
 def c2d():
@@ -163,7 +163,7 @@ def c2d():
 
     '''
 
-    raise NotImplementError
+    raise NotImplementedError
 
 
 def c2t():

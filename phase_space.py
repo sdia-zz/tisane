@@ -79,7 +79,7 @@ def svd():
 
     '''
 
-    raise NotImplementError
+    raise NotImplementedError
 
 
 def pc():
